@@ -1,0 +1,31 @@
+/*header*/
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  background-color: #ffcccc;
+  padding: 0;
+}
+
+/*nav bar*/
+ul{
+  background-color: #ffcccc;
+}
+
+li{
+  display: inline-block;
+  border-width: 10%;
+  font-family: 'Poppins', sans-serif;
+}
+
+li a:hover {
+  background-color: #ff9999;
+}
